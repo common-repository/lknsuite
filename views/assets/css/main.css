@@ -1,0 +1,24 @@
+.lknsuite_categorydiv div._lknsuite_meta_box {
+	min-height: 42px;
+	max-height: 140px;
+	overflow: auto;
+	padding: 0 .9em;
+	border: 1px solid #ddd;
+	background-color: #fdfdfd;
+}
+
+
+.lknsuite_categorydiv ul._lknsuite_accounts{
+	margin-top: 0px;
+}
+
+
+.lknsuite_categorydiv table{
+	width: 100%;
+}
+
+.lknsuite_how {
+	border: 1px solid orange;
+	background-color: #FFFFFF;
+	padding: 5px;
+}
